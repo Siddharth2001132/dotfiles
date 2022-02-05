@@ -1,0 +1,9 @@
+Host github.com github.com
+  HostName github.com
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/github_rsa
+
+Host hminfotech github.com
+  HostName github.com
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/hminfotech_rsa
