@@ -1,9 +1,9 @@
-Host github.com github.com
+Host github.com
   HostName github.com
   PreferredAuthentications publickey
   IdentityFile ~/.ssh/github_rsa
 
-Host hminfotech github.com
+Host hminfotech
   HostName github.com
   PreferredAuthentications publickey
   IdentityFile ~/.ssh/hminfotech_rsa
